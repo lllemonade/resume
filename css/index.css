@@ -68,6 +68,7 @@ header .avatar {
   height: 64px;
   border-radius: 50%;
   object-fit: cover;
+  background-color: #77a8a3;
 }
 
 header>h1 {
