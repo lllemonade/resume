@@ -25,6 +25,11 @@ html {
   box-sizing: inherit;
 }
 
+a {
+  color: #77a8a3;
+  text-decoration: none;
+}
+
 body {
   display: grid;
   grid: auto auto / 1fr 900px 1fr;
@@ -236,6 +241,11 @@ main section>.detail {
   font-family: 'iconfont';
   font-size: 30px;
   color: #77a8a3;
+}
+
+/* 校园经历 */
+.school .detail>li {
+  margin-top: 10px;
 }
 
 .layout-1 .detail>li {
